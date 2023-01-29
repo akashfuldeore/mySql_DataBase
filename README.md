@@ -6,8 +6,9 @@ Data Base Name -: organization
 #Table Structure
  
 Table Name – Worker
+![image](https://user-images.githubusercontent.com/65165416/215319851-223d5cfa-b9db-4cc6-804e-6e8942119753.png)
 
-WORKER_ID	FIRST_NAME	LAST_NAME	SALARY	JOINING_DATE	     DEPARTMENT
+WORKER_ID	 FIRST_NAME	LAST_NAME	SALARY	JOINING_DATE	     DEPARTMENT
 001	         Monika	     Arora	    100000	2014-02-20 09:00:00	 HR
 002	         Niharika	 Verma	    80000	2014-06-11 09:00:00	 Admin
 003	         Vishal	     Singhal	300000	2014-02-20 09:00:00	 HR
