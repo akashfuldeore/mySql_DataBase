@@ -6,7 +6,8 @@ Data Base Name -: organization
 #Table Structure
  
 Table Name – Worker
+![worker](https://user-images.githubusercontent.com/65165416/215320067-cfa0417d-7d14-437e-8ff2-9aa98fb19733.png)
 
-![image](https://user-images.githubusercontent.com/65165416/215319851-223d5cfa-b9db-4cc6-804e-6e8942119753.png)
+
 
 
