@@ -12,3 +12,15 @@
 
 5) Write an SQL query to find the position of the alphabet (‘a’) in the first name column ‘Amitabh’ from the Worker table.
 ==> Select INSTR(FIRST_NAME, BINARY'a') from Worker where FIRST_NAME = 'Amitabh';
+      
+     - The INSTR does a case-insensitive search.
+     - Using the BINARY operator will make INSTR work as the case-sensitive function.
+
+6) Write an SQL query to print the FIRST_NAME from the Worker table after removing white spaces from the right side.
+==> Select RTRIM(FIRST_NAME) from Worker;
+
+7) Write an SQL query to print the DEPARTMENT from the Worker table after removing white spaces from the left side.
+==> Select LTRIM(DEPARTMENT) from Worker;
+
+8) Write an SQL query that fetches the unique values of DEPARTMENT from the Worker table and prints its length.
+==> Select distinct length(DEPARTMENT) from Worker;
